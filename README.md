@@ -1,2 +1,1 @@
-# OneSidedBox
-One Sided Box Filter for Edge-preserving Image Smoothing with High Computation Performance
+# One Sided Box Filter can preserve edges while have high computation performance
