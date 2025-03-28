@@ -1,6 +1,7 @@
-# One Sided Box Filter 
-1) can preserve edges during smoothing
-2) have high computation performance as the box filter
+# [Paper](https://ieeexplore.ieee.org/document/10942596)
+# One-Sided Box Filter 
+1) preserve edges
+2) high computation performance
 ![image](NineCases.PNG)
 ```text
 @ARTICLE{osbf,
