@@ -16,6 +16,6 @@ From left to right: original, iteration=10, iteration=100 and iteration=1000
   year={2025},
   volume={13},
   number={},
-  pages={10289-10298},
+  pages={61149-61160},
   doi={10.1109/ACCESS.2025.3555434}}
 ```
