@@ -7,7 +7,9 @@
 ## As a result, this filter preserves edges
 ![image](largeItNum.png)
 From left to right: original, iteration=10, iteration=100 and iteration=1000
-## This filter is the fastest among all edge-preserving methods. Its running time is only about 4X of box filter running time.
+## R=5, first 10 iterations lead to
+![image](Release.gif)
+## The fastest edge-preserving method. Its running time is only about 4X of box filter running time.
 ```text
 @ARTICLE{osbf,
   author={Gong, Yuanhao},
